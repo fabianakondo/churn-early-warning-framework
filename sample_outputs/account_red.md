@@ -22,12 +22,12 @@ confirmed non-renewal within 30–45 days if no intervention occurs.
 **Signal 8 — Key contact turnover (score: 3, weight: 3 — contribution: 9/9 pts)**
 A new superintendent with a financial — not pedagogical — background joined 
 in September. The previous superintendent was an 11-year advocate who 
-personally referred two new clients. The new decision-maker has not responded 
-to any outreach and has no existing relationship with Arco. In a final-year 
-contract, this is the single most dangerous configuration possible: the person 
-who will decide whether to renew does not know the product, has no loyalty to 
-the relationship, and is being approached by a competitor. This signal alone 
-would warrant escalation.
+personally referred two new clients to the company. The new decision-maker 
+has not responded to any outreach and has no existing relationship with 
+the company. In a final-year contract, this is the single most dangerous 
+configuration possible: the person who will decide whether to renew does 
+not know the product, has no loyalty to the relationship, and is being 
+approached by a competitor. This signal alone would warrant escalation.
 
 **Signal 12 — Renewal conversation initiation (score: 3, weight: 3 — contribution: 9/9 pts)**
 It is October. The campaign closes in December. The school has not engaged 
@@ -55,11 +55,11 @@ recovery. The following sequence must be executed within 48 hours.
 - CS leadership escalates to CCO or equivalent. This account is too large 
   (BRL 890k) and too strategically important (Northeast reference account) 
   for CSM-level management at this stage.
-- Identify any existing personal or professional connection between Arco's 
-  executive team and the new superintendent. LinkedIn, mutual contacts, 
-  industry associations. A warm introduction is significantly more likely 
-  to open the door than a cold outreach from a CSM the superintendent 
-  has never met.
+- Identify any existing personal or professional connection between the 
+  company's executive team and the new superintendent. LinkedIn, mutual 
+  contacts, industry associations. A warm introduction is significantly 
+  more likely to open the door than a cold outreach from a CSM the 
+  superintendent has never met.
 - Brief the CCO on the account history, the previous superintendent 
   relationship, the competitor activity, and the current signal profile. 
   The CCO needs to walk into any conversation with full context.
@@ -68,23 +68,23 @@ recovery. The following sequence must be executed within 48 hours.
 - CCO or senior commercial leader sends a direct, personal outreach to 
   the new superintendent. Not a renewal proposal — a relationship 
   introduction. The message should acknowledge the transition, reference 
-  the school's history with Arco, and request a 20-minute call to 
+  the school's history with the company, and request a 20-minute call to 
   understand the new leadership team's priorities for 2026.
 - Do not lead with the contract or pricing. The superintendent's first 
-  impression of Arco should not be a vendor asking for a signature.
+  impression of the company should not be a vendor asking for a signature.
 
 **Within 7 days:**
 - If the introductory call is secured, prepare a bespoke value summary 
   for the superintendent: what the school has achieved with the system 
   over 3 years, student outcome data, coordinator satisfaction, 
   peer references from comparable networks in the region.
-- Separately, CSM Diego re-engages the pedagogical coordinator (not the 
+- Separately, the CSM re-engages the pedagogical coordinator (not the 
   superintendent) to rebuild operational-level confidence and identify 
   any outstanding product issues that need resolution before the renewal 
   conversation proceeds.
 
 **Competitive counter:**
-- Given that Positivo has already presented, prepare a competitive 
+- Given that a competitor has already presented, prepare a competitive 
   positioning brief. Do not wait for the school to raise the comparison — 
   proactively address the key differentiation points in the executive 
   conversation.
@@ -112,7 +112,7 @@ of the introductory call. If there is no response within 10 days,
 treat the account as likely lost and begin transition planning.
 
 **Event 2 — Competitor proposal formalised (next 30 days)**
-If Positivo submits a formal proposal to the school, the window for 
+If a competitor submits a formal proposal to the school, the window for 
 recovery narrows sharply. The CS team should ask the pedagogical 
 coordinator directly whether a formal proposal has been received — 
 this is a legitimate question at this stage of the cycle and should 
